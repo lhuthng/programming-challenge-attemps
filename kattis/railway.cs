@@ -73,5 +73,3 @@ namespace Toy_Railway
         }
     }
 }
-
- RSS feed for new problems | Powered by Kattis | Support Kattis on Patreon!
