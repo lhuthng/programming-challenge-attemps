@@ -1,3 +1,7 @@
+/*
+    Problem: No Duplicates
+    Link: https://open.kattis.com/problems/nodup
+*/
 using System;
 using System.Collections.Generic;
 

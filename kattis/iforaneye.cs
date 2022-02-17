@@ -1,3 +1,7 @@
+/*
+    Problem: An I for an Eye
+    Link: https://open.kattis.com/problems/iforaneye
+*/
 using System;
 using System.Collections.Generic;
 using System.Text;
